@@ -1,0 +1,14 @@
+2026-01-28 12:00:00 [INFO] /api/data response_time=4500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=1500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=1500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=1500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=2500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=3500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=3500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=3500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=4500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=4500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=4500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=1500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=1500ms
+2026-01-28 12:00:00 [INFO] /api/data response_time=1500ms

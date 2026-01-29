@@ -1,0 +1,4 @@
+_sourceCategory="uploads/other" AND "/api/data"
+| parse "response_time=*ms" as response_time 
+| where (response_time>3000)
+| count(response_time) by _view
